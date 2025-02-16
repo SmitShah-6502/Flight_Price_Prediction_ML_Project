@@ -4,7 +4,7 @@ import pandas as pd
 from pydantic import BaseModel
 
 # Load the trained model
-model_filename = "flight_price_model.pkl"
+model_filename = "flight_model.pkl"
 with open(model_filename, "rb") as file:
     model = pickle.load(file)
 
