@@ -1,1 +1,1 @@
-# Flight_Price_Prediction_ML_Project
+Flight Price Prediction Basic College project 
